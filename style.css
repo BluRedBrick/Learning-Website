@@ -1,15 +1,22 @@
-button {
-    background-color:transparent;
-    font-size: 40px;
-    display: block;
-    margin: 0 auto;
-    padding: 50px 50px;
-    border: 5px dashed black;
+
+
+
+.Top {
+    background-color: rgb(0, 0, 0);
+    margin: 0px 0px 50px 0px;
+    overflow: hidden;
 }
 
-button:hover {
-    background-color: grey;
-    padding: 55px 55px;
-    border: none;
-    color: white;
+.But {
+  float: left;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.But:hover {
+    background-color: rgb(230, 230, 230);
+    color: black;
 }
