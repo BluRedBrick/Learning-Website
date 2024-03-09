@@ -7,16 +7,15 @@
     overflow: hidden;
 }
 
-.But {
+span {
   float: left;
-  text-align: center;
   color: white;
   padding: 20px;
   font-size: 25px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.But:hover {
+span:hover {
     background-color: rgb(230, 230, 230);
     color: black;
 }
