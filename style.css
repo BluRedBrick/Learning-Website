@@ -8,26 +8,5 @@
 
 a {
   float: left;
-  text-decoration: none;
-  color: white;
-  padding: 25px;
-  font-size: 25px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.Profile {
-  float: none;
-  position: absolute;
-  left: 50%;
-}
-
-.Settings {
-  float: right;
-}
-
-
-a:hover {
-    background-color: rgb(230, 230, 230);
-    color: black;
 }
 
